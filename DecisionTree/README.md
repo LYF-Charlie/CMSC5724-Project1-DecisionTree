@@ -1,5 +1,5 @@
 
-# CMSC5724 Project1 DecisionTree 2024Fall
+# Decision Tree 2024
 The group project of CMSC5724 2024fall
 >    Li Yifei 1155215544
 
@@ -94,8 +94,8 @@ File Structure:<br>
 
 1. Please ensure that these files or directory exist: <br>
  `src/input/adult.data` <br>
-    `src/input/adult.test` <br>
-    `src/output` 
+  `src/input/adult.test` <br>
+  `src/output` 
 2. Do not modify the directory structure or file names, otherwise an exception will occur during execution. 
 3. Open the terminal in the directory where `DecisionTree.jar` is located, and run the command `java -jar DecisionTree.jar`. The program will start running and output the results to `src/output`.
 
